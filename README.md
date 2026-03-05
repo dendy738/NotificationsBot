@@ -5,8 +5,10 @@ Also, you can set several events at several dates and times and bot will remind 
 
 Using:
   - command:
+ 
 
       pip install -r requirements.txt
+
 
   - Search bot in the Telegram by tag @your_private_helper_bot.
   - Run code in your IDE.
