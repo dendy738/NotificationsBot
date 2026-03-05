@@ -7,7 +7,7 @@ Using:
   - command:
  
 
-      pip install -r requirements.txt
+        pip install -r requirements.txt
 
 
   - Search bot in the Telegram by tag @your_private_helper_bot.
