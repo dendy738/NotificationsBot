@@ -26,7 +26,7 @@ def greet(message):
 
 
     user_info(message)
-    with open('./Data_base.txt', 'w') as file:
+    with open('./Data_base.json', 'w', encoding='utf-8') as file:
         js_format = json.dumps(USERS)
         file.write(js_format)
 
